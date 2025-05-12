@@ -5,6 +5,3 @@ continuous deployment 104
 # wns-deploy
 
 #
-aza
-vaeuifg
-lkifaozb
